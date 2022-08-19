@@ -59,6 +59,16 @@ python card-D.py
 
 
 
-Telegram
+» Telegram
 
 https://t.me/name_dark
+
+
+
+
+
+» instgram 
+
+
+
+https://instagram.com/name__dark?igshid=YmMyMTA2M2Y=
