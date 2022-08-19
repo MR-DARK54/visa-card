@@ -26,3 +26,39 @@
 Using a vpn when using visa cards 
 
 
+# install 
+
+
+
+apt update 
+
+
+
+
+git clone https://github.com/MR-DARK54/visa-card
+
+
+
+
+
+cd visa-card
+
+
+
+chmod +x *
+
+
+
+python card-D.py
+
+
+
+
+
+# fowlo me 
+
+
+
+Telegram
+
+https://t.me/name_dark
